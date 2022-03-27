@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633792584596",
+    "project_id": "lgm-face-detection-8cc35",
+    "storage_bucket": "lgm-face-detection-8cc35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633792584596:android:4e00eaa432d57962938d81",
+        "android_client_info": {
+          "package_name": "com.akan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633792584596-o229424q55ilhcvrvjet2m3n2v7asmta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-cGFNwyTSkuANWnD-zKR5e_Pvjqzs7S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633792584596-o229424q55ilhcvrvjet2m3n2v7asmta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
